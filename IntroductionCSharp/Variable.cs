@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,7 +15,7 @@ namespace IntroductionCSharp
             change = "do you think soo?";
             System.Console.WriteLine(message);
             System.Console.WriteLine(change);
-            message = "yes."; // override variable
+            message = "yes."; // changing the value of variable
             System.Console.WriteLine(message);
         }
     }
