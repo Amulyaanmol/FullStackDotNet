@@ -1,0 +1,5 @@
+C:\Users\91707\source\IntroductionCSharp\IntroductionCSharp\obj\Debug\net5.0\IntroductionCSharp.csproj.AssemblyReference.cache
+C:\Users\91707\source\IntroductionCSharp\IntroductionCSharp\obj\Debug\net5.0\IntroductionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91707\source\IntroductionCSharp\IntroductionCSharp\obj\Debug\net5.0\IntroductionCSharp.AssemblyInfoInputs.cache
+C:\Users\91707\source\IntroductionCSharp\IntroductionCSharp\obj\Debug\net5.0\IntroductionCSharp.AssemblyInfo.cs
+C:\Users\91707\source\IntroductionCSharp\IntroductionCSharp\obj\Debug\net5.0\IntroductionCSharp.csproj.CoreCompileInputs.cache
