@@ -1,11 +1,11 @@
-﻿1. The program created by the C# compiler, HelloWorld.exe, is ___a________.
+1. The program created by the C# compiler, HelloWorld.exe, is ___a________.
 	a. an Assembly.    b. Linker       c. a Class file       d. none
 
-2. The compiler uses the keywords to identify the structure and organization of the code
+2. The compiler uses the keywords to identify the structure and organization of the code
 
  Static int main(string[] args)
- static void main(string[] args)...
- static void Main()
+ static void main(string[] args)
+ static void Main()....
  static void Main(string args[])
 
 
